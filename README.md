@@ -18,6 +18,7 @@ Maps/
  └── (曲名フォルダ2)/
       ├── index.json
       └── Map_Crazy.json
+```
 
 ## 📝 index.json の詳細な記述形式とルール
 
