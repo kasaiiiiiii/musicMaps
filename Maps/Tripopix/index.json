@@ -1,0 +1,16 @@
+{
+    "maps": [
+        {
+            "displayName": "えんじい譜面 (by 46)",
+            "fileName": "Map_Enjoy.json"
+        },
+        {
+            "displayName": "ごら専用譜面 (by 109)",
+            "fileName": "Map_Gorilla.json"
+        },
+        {
+            "displayName": "202年最新超難関譜面",
+            "fileName": "Map_2026Extreme.json"
+        }
+    ]
+}
