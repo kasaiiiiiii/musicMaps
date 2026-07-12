@@ -1,0 +1,2639 @@
+{
+    "songName": "impulse 24/7",
+    "notes": [
+        {
+            "hitTime": 1.125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 1.40625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 1.6875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 1.96875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 2.25,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 2.53125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 2.8125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 3.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 3.375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 3.65625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 3.9375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 4.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 4.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 4.875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 5.0625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 5.34375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 5.625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 5.90625
+        },
+        {
+            "hitTime": 6.0,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 6.1875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 6.46875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 6.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 7.03125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 7.40625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 7.6875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 7.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 8.25,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 8.53125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 8.8125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 9.09375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 9.375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 9.65625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 9.9375
+        },
+        {
+            "hitTime": 9.9375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 10.21875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 10.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 10.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 11.25,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 11.625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 11.90625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 12.1875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 12.28125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 12.5625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 12.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 13.3125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 13.40625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 13.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 13.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 14.25,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 14.53125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 14.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 14.90625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 15.28125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 15.65625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 15.9375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 16.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 16.5,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 16.875
+        },
+        {
+            "hitTime": 16.78125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 17.15625
+        },
+        {
+            "hitTime": 17.0625,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 17.4375
+        },
+        {
+            "hitTime": 17.34375,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 17.71875
+        },
+        {
+            "hitTime": 17.625,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 18.0
+        },
+        {
+            "hitTime": 17.90625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 18.28125
+        },
+        {
+            "hitTime": 18.1875,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 18.5625
+        },
+        {
+            "hitTime": 18.46875,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 18.84375
+        },
+        {
+            "hitTime": 18.75,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 19.125
+        },
+        {
+            "hitTime": 19.03125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 19.40625
+        },
+        {
+            "hitTime": 19.3125,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 19.59375
+        },
+        {
+            "hitTime": 19.6875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 19.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 20.53125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 20.8125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 21.09375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 21.375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 21.5625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 21.75,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 21.9375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 22.03125,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 22.40625
+        },
+        {
+            "hitTime": 22.40625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 22.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 22.59375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 22.96875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 23.34375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 23.71875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 23.8125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.75,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.84375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 24.9375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 25.125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 25.40625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 25.6875
+        },
+        {
+            "hitTime": 25.6875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 25.96875
+        },
+        {
+            "hitTime": 25.96875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 26.25,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 26.53125
+        },
+        {
+            "hitTime": 26.4375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 26.8125
+        },
+        {
+            "hitTime": 26.8125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 27.09375,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 27.375
+        },
+        {
+            "hitTime": 27.375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 27.65625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 27.9375
+        },
+        {
+            "hitTime": 27.9375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 28.21875
+        },
+        {
+            "hitTime": 28.21875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 28.5
+        },
+        {
+            "hitTime": 28.5,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 28.78125
+        },
+        {
+            "hitTime": 28.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 29.0625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 29.625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 29.90625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 30.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 30.75,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 31.3125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 31.59375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 31.875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 32.15625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 32.53125
+        },
+        {
+            "hitTime": 32.53125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 32.625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 32.90625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 33.1875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 33.375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 33.65625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 33.84375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 34.03125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 34.21875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 34.40625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 34.6875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 34.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 35.34375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 35.4375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 35.625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 35.71875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.09375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.46875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.84375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 36.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 37.3125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 37.40625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 37.6875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 38.25,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 38.53125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 38.71875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 39.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 39.375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 39.46875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 39.84375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.21875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.40625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.6875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 40.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 41.15625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 41.4375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 41.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 41.8125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 42.09375
+        },
+        {
+            "hitTime": 42.09375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 42.375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 42.5625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 42.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 42.9375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 43.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 43.3125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 43.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 43.6875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 43.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 44.0625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 44.34375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 44.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 44.71875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 44.90625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 45.1875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 45.46875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 45.75
+        },
+        {
+            "hitTime": 45.9375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 46.21875
+        },
+        {
+            "hitTime": 46.21875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 46.5,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 46.875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 47.15625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 47.34375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 47.625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 47.90625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 48.1875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 48.46875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 48.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 49.125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 49.40625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 49.6875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 49.875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 50.25
+        },
+        {
+            "hitTime": 50.25,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 50.53125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 50.8125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 51.09375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 51.375
+        },
+        {
+            "hitTime": 51.28125,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 51.5625
+        },
+        {
+            "hitTime": 51.5625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 51.9375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 52.21875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 52.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 52.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 53.0625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 53.4375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 53.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 53.90625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 54.1875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 54.5625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 54.84375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 55.125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 55.40625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 55.6875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 55.96875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 56.25,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 56.625
+        },
+        {
+            "hitTime": 56.53125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 56.8125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 57.09375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 57.375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 57.65625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 57.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 58.21875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 58.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 58.875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 59.15625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 59.34375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 59.71875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 60.0
+        },
+        {
+            "hitTime": 59.90625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 60.28125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 60.46875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 60.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 61.125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 61.3125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 61.59375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 61.96875
+        },
+        {
+            "hitTime": 61.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 62.15625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 62.4375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 62.8125
+        },
+        {
+            "hitTime": 62.71875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 63.09375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 63.375
+        },
+        {
+            "hitTime": 63.375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 63.65625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 63.9375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 64.21875
+        },
+        {
+            "hitTime": 64.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 64.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 64.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 65.0625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 65.34375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 65.71875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 65.90625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 66.28125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 68.53125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 68.8125
+        },
+        {
+            "hitTime": 68.71875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 69.09375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 69.375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 69.65625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 69.9375
+        },
+        {
+            "hitTime": 69.9375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 70.21875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 70.5
+        },
+        {
+            "hitTime": 70.5,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 70.78125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 71.0625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 71.34375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 71.625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 72.0,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 72.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 72.5625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 72.84375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 73.125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 73.40625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 73.6875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 73.96875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 74.25,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 74.90625
+        },
+        {
+            "hitTime": 74.53125,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 75.1875
+        },
+        {
+            "hitTime": 75.375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 75.65625
+        },
+        {
+            "hitTime": 75.65625,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 75.9375
+        },
+        {
+            "hitTime": 75.9375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 76.21875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 76.5
+        },
+        {
+            "hitTime": 76.5,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 76.78125,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 77.0625
+        },
+        {
+            "hitTime": 77.0625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 77.4375
+        },
+        {
+            "hitTime": 77.34375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 77.71875
+        },
+        {
+            "hitTime": 77.71875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 78.0,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 78.28125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 78.5625
+        },
+        {
+            "hitTime": 78.5625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 78.84375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 79.125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 79.40625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 79.6875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 79.875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 80.25,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 80.4375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 80.71875
+        },
+        {
+            "hitTime": 80.8125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 81.09375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 81.46875
+        },
+        {
+            "hitTime": 81.46875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 81.75
+        },
+        {
+            "hitTime": 81.65625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 81.9375,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 82.21875
+        },
+        {
+            "hitTime": 82.21875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 82.5
+        },
+        {
+            "hitTime": 82.5,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 82.875,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 83.15625
+        },
+        {
+            "hitTime": 83.0625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 83.34375
+        },
+        {
+            "hitTime": 83.34375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 83.625
+        },
+        {
+            "hitTime": 83.625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 84.0,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 84.28125
+        },
+        {
+            "hitTime": 84.1875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 84.5625
+        },
+        {
+            "hitTime": 84.46875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 84.75
+        },
+        {
+            "hitTime": 84.75,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 85.125
+        },
+        {
+            "hitTime": 85.03125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 85.21875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 85.59375
+        },
+        {
+            "hitTime": 85.5,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 85.78125
+        },
+        {
+            "hitTime": 85.78125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 85.875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 86.25
+        },
+        {
+            "hitTime": 86.0625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 86.34375
+        },
+        {
+            "hitTime": 86.34375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 86.53125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 86.90625
+        },
+        {
+            "hitTime": 86.71875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 87.09375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 87.375
+        },
+        {
+            "hitTime": 87.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 87.5625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 87.75,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 88.03125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 88.21875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 88.3125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 88.6875
+        },
+        {
+            "hitTime": 88.6875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 88.875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 88.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 89.15625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 89.34375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 89.71875
+        },
+        {
+            "hitTime": 89.625,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 89.90625
+        },
+        {
+            "hitTime": 89.71875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 90.0,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 90.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 90.28125,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 90.65625
+        },
+        {
+            "hitTime": 90.5625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 90.84375,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 91.125
+        },
+        {
+            "hitTime": 91.03125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 91.3125,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 91.59375
+        },
+        {
+            "hitTime": 91.59375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 91.875
+        },
+        {
+            "hitTime": 91.875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 92.15625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 92.4375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 92.71875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 93.0
+        },
+        {
+            "hitTime": 93.09375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 93.375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 93.5625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 93.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 94.125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 94.3125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 94.6875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 94.96875
+        },
+        {
+            "hitTime": 95.34375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 95.625
+        },
+        {
+            "hitTime": 95.625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 96.0,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 96.1875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 96.46875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 96.75,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 97.03125
+        },
+        {
+            "hitTime": 97.03125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 97.3125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 97.6875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 97.96875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 98.25,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 98.53125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 98.8125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 99.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 99.375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 99.75,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 99.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 100.21875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 100.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 100.78125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 101.0625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 101.34375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 101.625,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 101.90625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 102.1875
+        },
+        {
+            "hitTime": 102.1875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 102.46875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 102.75,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 103.875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 104.15625,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 104.53125
+        },
+        {
+            "hitTime": 104.4375,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 104.8125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 105.09375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 105.375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 105.65625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 105.9375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 106.21875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 106.5,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 106.78125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 107.0625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 107.34375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 107.625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 107.90625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 108.1875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 108.46875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 108.75
+        },
+        {
+            "hitTime": 108.75,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 109.125
+        },
+        {
+            "hitTime": 109.03125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 109.40625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 109.6875,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 109.875,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 110.25
+        },
+        {
+            "hitTime": 110.15625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 110.53125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 110.8125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 111.09375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 111.375
+        },
+        {
+            "hitTime": 111.28125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 111.65625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 111.9375,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 112.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 112.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 112.78125,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 113.0625
+        },
+        {
+            "hitTime": 113.0625,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 113.34375
+        },
+        {
+            "hitTime": 113.4375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 113.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 113.90625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 114.28125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 114.5625,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 114.75,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 115.03125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 115.3125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 115.6875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 115.96875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 116.25,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 116.53125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 116.8125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 117.0,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 117.375,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 117.65625
+        },
+        {
+            "hitTime": 117.65625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 117.9375,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 118.21875,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 118.5
+        },
+        {
+            "hitTime": 118.5,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 118.78125
+        },
+        {
+            "hitTime": 118.78125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 119.0625,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 119.4375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 119.625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 119.8125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 119.90625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 120.09375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 120.28125,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 120.46875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 120.65625,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 120.84375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.03125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.21875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.3125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.59375,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.6875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.78125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 121.96875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0
+        },
+        {
+            "hitTime": 122.25,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0
+        }
+    ]
+}
