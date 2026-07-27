@@ -4,5 +4,9 @@
             "displayName": "かさオリジナル譜面",
             "fileName": "impulse.json"
         }
+        {
+            "displayName": "Dummy Love",
+            "fileName": "love.json"
+        }
     ]
 }
