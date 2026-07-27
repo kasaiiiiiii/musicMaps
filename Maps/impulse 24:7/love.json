@@ -1,0 +1,173 @@
+{
+    "songName": "impulse 24/7",
+    "notes": [
+        {
+            "hitTime": 6.0,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 7.125,
+            "isDummy": true
+        },
+        {
+            "hitTime": 6.0,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 6.0,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 6.0,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 7.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 7.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 7.59375,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 8.53125,
+            "isDummy": true
+        },
+        {
+            "hitTime": 7.59375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 8.53125,
+            "isDummy": true
+        },
+        {
+            "hitTime": 8.53125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 8.53125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 9.0,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 9.375,
+            "isDummy": true
+        },
+        {
+            "hitTime": 9.0,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 9.375,
+            "isDummy": true
+        },
+        {
+            "hitTime": 9.375,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 10.125,
+            "isDummy": true
+        },
+        {
+            "hitTime": 9.375,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 10.125,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.5,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.5,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.5,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.5,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 11.625,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.96875,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.96875,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 10.96875,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 11.53125,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 11.53125,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        },
+        {
+            "hitTime": 11.53125,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": true
+        }
+    ]
+}
