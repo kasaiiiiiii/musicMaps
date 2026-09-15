@@ -1,0 +1,6015 @@
+{
+    "songName": "Start_a_journey_challenge",
+    "notes": [
+        {
+            "hitTime": 1.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 1.56,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 2.03,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 2.06,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 2.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 2.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 2.9,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 3.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 3.69,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 4.19,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 4.23,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 4.23,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 4.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 4.74,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 5.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 5.7,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 5.73,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 6.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 6.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 6.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 6.9,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 7.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 7.39,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 7.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 8.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 8.4,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 9.03,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.07,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.2,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 10.86,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.11,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.27,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.44,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.61,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 11.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 12.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 12.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 12.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 12.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 13.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 13.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 13.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 13.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.03,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.59,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 14.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 15.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 15.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 15.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 16.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 16.24,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 16.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 16.53,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 16.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 17.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 17.41,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 17.56,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 18.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 18.07,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 18.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 18.24,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 18.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 19.03,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 19.53,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 19.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 20.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 20.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 20.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 20.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 20.86,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 21.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.44,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.61,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.77,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 22.94,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.03,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.11,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.27,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.44,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.53,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.61,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 23.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 24.02,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 24.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 24.36,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 24.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 24.69,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 24.85,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 24.85,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 25.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 25.35,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 25.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 25.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 26.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 26.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 26.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 26.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 27.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 27.11,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 27.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 27.69,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 28.02,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 28.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 28.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 28.36,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 28.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 28.69,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 29.02,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 29.02,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 29.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 29.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 29.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 29.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 30.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 30.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 30.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 30.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 31.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 31.35,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 31.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 32.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 32.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 32.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 32.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 32.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.78,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 33.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.11,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.28,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.36,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 34.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 34.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 35.02,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 35.35,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 35.35,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 35.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 35.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 36.02,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 36.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 36.36,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 36.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 36.69,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 37.02,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 37.02,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 37.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 37.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 37.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 37.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 38.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 38.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 38.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 38.85,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 39.02,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 39.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 39.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 39.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 40.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 40.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 41.02,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 41.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 41.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 41.94,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 42.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 42.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 42.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 42.85,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 43.02,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 43.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 43.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 43.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 43.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 44.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 45.02,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 47.7,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 50.37,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 54.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 50.37,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 54.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 54.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 54.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.03,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.11,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.28,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.44,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.61,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 55.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 56.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 56.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 56.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 57.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 57.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 57.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 57.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 58.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 58.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 58.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 58.86,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 59.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 59.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 59.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 60.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 60.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 60.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 60.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 61.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 62.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 62.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 62.48,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 63.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 63.28,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 63.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 63.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 64.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 64.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 64.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.56,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 65.87,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 66.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 66.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 66.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 66.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 66.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.77,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 67.94,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.11,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.27,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.44,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.61,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.77,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 68.94,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 69.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 69.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 69.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 69.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 69.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.03,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 70.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 71.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 72.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 73.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 74.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 75.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.03,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 76.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 77.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.44,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.61,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.77,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 78.94,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.11,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.27,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.44,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.61,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 79.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 80.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 80.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 80.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 80.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 80.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.03,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 81.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.53,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 82.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 83.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.52,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 84.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.2,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 85.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 86.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 87.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.2,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 88.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 89.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 90.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 90.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 90.36,
+            "laneIndex": 2,
+            "isHold": true,
+            "endTime": 93.02,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 93.02,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 93.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 93.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 93.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 93.69,
+            "laneIndex": 1,
+            "isHold": true,
+            "endTime": 94.02,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 94.02,
+            "laneIndex": 0,
+            "isHold": true,
+            "endTime": 94.36,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 94.36,
+            "laneIndex": 3,
+            "isHold": true,
+            "endTime": 94.69,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 94.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 94.86,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 94.9,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 95.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 95.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 95.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 96.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 96.23,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 96.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 96.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 96.74,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 97.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 97.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 97.73,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 97.73,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 98.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 98.74,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 98.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.41,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.57,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 99.93,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 100.07,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 100.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 100.52,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 100.57,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 100.73,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 101.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 101.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 101.47,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 101.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 102.03,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 102.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 102.24,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 102.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 102.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 103.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 103.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 103.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 103.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 104.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.11,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.28,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.44,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.61,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.77,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.86,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 105.94,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.11,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.27,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 106.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 107.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 107.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 107.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 107.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 107.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 108.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.2,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 109.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.52,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 110.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 111.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.53,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 112.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.03,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 113.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.19,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.53,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 114.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.36,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.77,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 115.94,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.11,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.27,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.44,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.61,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.77,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 116.94,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 117.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 117.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 117.52,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 117.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.53,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 118.86,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 119.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.02,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 120.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.03,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.19,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.36,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.53,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 121.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 122.03,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 122.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 122.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 122.69,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 122.86,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.69,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 123.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.02,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.52,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 124.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.02,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.2,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.53,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 125.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.03,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.19,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.36,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.53,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.69,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 126.86,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 127.02,
+            "laneIndex": 1,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 127.19,
+            "laneIndex": 3,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 127.36,
+            "laneIndex": 2,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 127.52,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        },
+        {
+            "hitTime": 127.69,
+            "laneIndex": 0,
+            "isHold": false,
+            "endTime": 0.0,
+            "isDummy": false,
+            "colorR": 1.0,
+            "colorG": 1.0,
+            "colorB": 1.0
+        }
+    ]
+}
