@@ -2902,16 +2902,6 @@
             "colorB": 1.0
         },
         {
-            "hitTime": 57.1,
-            "laneIndex": 0,
-            "isHold": true,
-            "endTime": 0.0,
-            "isDummy": false,
-            "colorR": 1.0,
-            "colorG": 1.0,
-            "colorB": 1.0
-        },
-        {
             "hitTime": 57.21,
             "laneIndex": 1,
             "isHold": false,
@@ -4275,16 +4265,6 @@
             "hitTime": 80.49,
             "laneIndex": 0,
             "isHold": false,
-            "endTime": 0.0,
-            "isDummy": false,
-            "colorR": 1.0,
-            "colorG": 1.0,
-            "colorB": 1.0
-        },
-        {
-            "hitTime": 80.49,
-            "laneIndex": 3,
-            "isHold": true,
             "endTime": 0.0,
             "isDummy": false,
             "colorR": 1.0,
