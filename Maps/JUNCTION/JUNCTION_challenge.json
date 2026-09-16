@@ -1982,16 +1982,6 @@
             "colorB": 1.0
         },
         {
-            "hitTime": 52.93,
-            "laneIndex": 0,
-            "isHold": true,
-            "endTime": 0.0,
-            "isDummy": false,
-            "colorR": 1.0,
-            "colorG": 1.0,
-            "colorB": 1.0
-        },
-        {
             "hitTime": 53.1,
             "laneIndex": 2,
             "isHold": false,
