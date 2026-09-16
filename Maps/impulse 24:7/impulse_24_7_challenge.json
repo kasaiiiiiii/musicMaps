@@ -6292,16 +6292,6 @@
             "colorB": 1.0
         },
         {
-            "hitTime": 91.88,
-            "laneIndex": 2,
-            "isHold": true,
-            "endTime": 0.0,
-            "isDummy": false,
-            "colorR": 1.0,
-            "colorG": 1.0,
-            "colorB": 1.0
-        },
-        {
             "hitTime": 92.02,
             "laneIndex": 1,
             "isHold": true,
